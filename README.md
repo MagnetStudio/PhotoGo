@@ -26,22 +26,24 @@ Ok, please enjoy it!
 ### Some screenshot:
 List view of uploaded Images    
     
-![Foo](http://i.imgur.com/nkvjxAW.png?1)
+![Foo](http://i.imgur.com/nkvjxAW.png?2)
     
 Image to upload    
 
-![Foo](http://i.imgur.com/uld5ojh.png)
+![Foo](http://i.imgur.com/zRmtR1x.png?1)
     
 Upload finished    
 
-![Foo](http://i.imgur.com/Ufl5bUS.png)
+![Foo](http://i.imgur.com/myoIOr9.png?1)
     
 Get the url of image    
 
-![Foo](http://i.imgur.com/zpwkRiX.png)
+![Foo](http://i.imgur.com/Leebx2y.png?1)
     
 Paste url to a browser    
 
-![Foo](http://i.imgur.com/Pv7Ui7N.png)
+![Foo](http://i.imgur.com/geJSEr2.png?1)
+
+
     
-   
+    
