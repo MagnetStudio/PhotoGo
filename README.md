@@ -20,4 +20,28 @@ The sources have been built with Xcode7.3.1 and run successfully at iOS9.3.2.
     Target->PhotoGoEx->Capabilities->App Groups->App Groups:Your own App Groups(should be same as target:PhotoGo)
     Target->PhotoLib->General->Identity->Team:Your own Team ID(should be same as target:PhotoGo)
      
-Ok, please enjoy it!
+Ok, please enjoy it!    
+
+----
+### Some screenshot:
+List view of uploaded Images    
+    
+![Foo](http://i.imgur.com/nkvjxAW.png?1)
+    
+Image to upload    
+
+![Foo](http://i.imgur.com/uld5ojh.png)
+    
+Upload finished    
+
+![Foo](http://i.imgur.com/Ufl5bUS.png)
+    
+Get the url of image    
+
+![Foo](http://i.imgur.com/zpwkRiX.png)
+    
+Paste url to a browser    
+
+![Foo](http://i.imgur.com/Pv7Ui7N.png)
+    
+   
